@@ -1,4 +1,4 @@
-# SQL-PROJECT
+# SQL-PROJECT - Layoff Data cleaning and Analysis
 **Project: Data Cleaning & Analysis Using SQL Workbench**
 
 Performed data cleaning on a layoffs dataset using SQL Workbench, handling missing values, duplicates, and inconsistencies.
